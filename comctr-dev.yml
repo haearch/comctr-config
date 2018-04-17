@@ -1,1 +1,2 @@
 url: http://foo.bar.example.com
+secret: '{crypt}ad14aa446bc72cdd1d813290334b8f58eca4b8d7dc3ea21bf133b4e3e2c42a0e'
